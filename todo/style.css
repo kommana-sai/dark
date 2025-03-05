@@ -1,0 +1,16 @@
+.bi-brightness-high-fill{
+      left: 50%;
+      top:50%;
+      position: absolute;
+      transform: translate(-50%, -50%);
+      font-size: 60px;
+
+    
+}
+.bi-moon-fill{
+      left: 50%;
+      top:50%;
+      position:absolute;
+    font-size: 60px;
+
+}
